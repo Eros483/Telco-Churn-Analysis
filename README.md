@@ -11,3 +11,18 @@ This is a Streamlit-based web application for analyzing customer churn data. The
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
    pip install -r requirements.txt
+```
+
+### Dependencies
+-pandas
+-numpy
+-matplotlib
+-seaborn
+-scikit-learn
+-shap
+-xgboost
+-streamlit
+-optuna
+-imblearn
+-joblib
+-ipython
