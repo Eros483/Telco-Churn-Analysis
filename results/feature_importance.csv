@@ -1,0 +1,53 @@
+feature,mean_abs_shap
+Dependents,0.5914682
+Contract_Two year_True,0.51864845
+Contract_One year_True,0.4243009
+tenure,0.41585052
+Internet Service_Fiber optic_False,0.3928849
+Payment Method_Electronic check_False,0.38092184
+Multiple Lines_Yes_False,0.35432667
+Online Security_Yes_True,0.3293679
+Tech Support_Yes_True,0.32920823
+Online Backup_Yes_True,0.26549888
+tenure_bucket,0.25390553
+Streaming TV_Yes_False,0.22959003
+Online Backup_Yes_False,0.21985063
+Multiple Lines_Yes_True,0.21360338
+MonthlyCharges,0.21214572
+Online Security_Yes_False,0.20787859
+Tech Support_Yes_False,0.19044457
+Streaming Movies_Yes_False,0.18274915
+Device Protection_Yes_False,0.16005619
+TotalCharges,0.15708776
+Device Protection_Yes_True,0.14631677
+Payment Method_Electronic check_True,0.14190847
+Payment Method_Credit card (automatic)_False,0.13806862
+Payment Method_Credit card (automatic)_True,0.12536293
+Internet Service_No_False,0.1195741
+Streaming TV_Yes_True,0.115536176
+Contract_One year_False,0.1125364
+Streaming Movies_Yes_True,0.10013813
+Gender,0.09907998
+Internet Service_Fiber optic_True,0.05114923
+Senior Citizen,0.04925111
+Paperless Billing,0.047510684
+Partner,0.047178578
+Payment Method_Mailed check_False,0.044728365
+Payment Method_Mailed check_True,0.04427995
+Phone Service,0.04389862
+Multiple Lines_No phone service_False,0.021619212
+Contract_Two year_False,0.0101288995
+Online Security_No internet service_False,0.008568903
+Internet Service_No_True,0.0037176784
+Multiple Lines_No phone service_True,0.003133459
+Online Security_No internet service_True,0.0
+Device Protection_No internet service_False,0.0
+Device Protection_No internet service_True,0.0
+Streaming TV_No internet service_True,0.0
+Streaming TV_No internet service_False,0.0
+Tech Support_No internet service_False,0.0
+Tech Support_No internet service_True,0.0
+Online Backup_No internet service_True,0.0
+Online Backup_No internet service_False,0.0
+Streaming Movies_No internet service_False,0.0
+Streaming Movies_No internet service_True,0.0
