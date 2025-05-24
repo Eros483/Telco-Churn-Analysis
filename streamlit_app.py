@@ -34,6 +34,40 @@ explainer=shap.TreeExplainer(model)
 
 st.set_page_config(page_title="Churn Predicter", layout="wide")
 st.title("Telco Customer Churn Predictor")
+st.markdown(
+    '''
+    ---
+    '''
+)
+colx, coly=st.columns(2)
+with colx:
+    st.markdown(
+        '''
+        ### 🔍 The Problem
+        We want to figure out which customers might cancel their subscriptions. Knowing this early helps companies keep them around by offering better deals or support.
+        '''
+    )
+with coly:
+    st.markdown(
+    '''
+    ### 💡 Solution
+
+    This is a Streamlit app predicting telecom customer churn using a tuned XGBoost model.  
+    Input can be uploaded CSV or manual entry of customer details.  
+
+    The app preprocesses inputs (encoding, scaling), then outputs churn probability and prediction.  
+    SHAP explainability highlights feature impact on individual predictions.  
+
+    Tech stack: Streamlit, XGBoost, Optuna, SHAP, scikit-learn.
+    '''
+)
+
+st.markdown(
+    '''
+    ---
+    '''
+)
+
 
 #Query mode, upload or manual
 input_mode=st.radio("Choose query type", ["Upload CSV (for multiple customer data)", "Manual Entry (for single customer data)"])
