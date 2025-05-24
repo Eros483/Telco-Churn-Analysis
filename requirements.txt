@@ -9,3 +9,4 @@ streamlit
 optuna
 imblearn
 joblib
+ipython
