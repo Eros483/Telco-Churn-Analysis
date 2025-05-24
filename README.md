@@ -6,23 +6,6 @@ This is a Streamlit-based web application for analyzing customer churn data. The
 
 ---
 
-## 📁 Project Structure
-
-root/
-├── app/
-│ ├── streamlit_app.py # Main Streamlit application
-│ └── loaders.py # Utility functions for loading models and data
-├── data/
-│ └── your_csv_file.csv # CSV dataset
-├── models/
-│ └── your_model_name.pkl # Serialized machine learning model(s)
-
-yaml
-Copy
-Edit
-
----
-
 ## 🚀 How to Run Locally
 
 1. **Clone the repository**
