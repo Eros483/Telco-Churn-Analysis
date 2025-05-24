@@ -15,14 +15,25 @@ This is a Streamlit-based web application for analyzing customer churn data. The
 
 ### Dependencies
 -pandas
+
 -numpy
+
 -matplotlib
+
 -seaborn
+
 -scikit-learn
+
 -shap
+
 -xgboost
+
 -streamlit
+
 -optuna
+
 -imblearn
+
 -joblib
+
 -ipython
