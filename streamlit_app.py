@@ -9,10 +9,10 @@ from sklearn.preprocessing import StandardScaler
 from pathlib import Path
 
 #paths
-model_path = Path.cwd().parent/"models"/"xgb_scaled_pos_model.pkl"
-data_path=Path.cwd().parent/"data"/"processed_telco_churn.csv"
-scaler_path=Path.cwd().parent/"models"/"scaler.joblib"
-model_features_path=Path.cwd().parent/"models"/"model_features.pkl"
+model_path = Path("models/xgb_scaled_pos_model.pkl")
+data_path = Path("data/processed_telco_churn.csv")
+scaler_path = Path("models/scaler.joblib")
+model_features_path = Path("models/model_features.pkl")
 
 #model
 model=joblib.load(model_path)
