@@ -15,6 +15,7 @@ The goal was to use machine learning to predict which customers are likely to ca
 - used SHAP to find which features most influence churn
 - Built a powerBI dashboard showing visualising relevant factors
 - Created a basic streamlit app with churn prediction capabilities, provided data.
+- Provided a powerBI dashboard for interactive result analysis
 ---
 
 ##  How to Run Locally
