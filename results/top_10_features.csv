@@ -1,0 +1,11 @@
+feature,mean_abs_shap
+Dependents,0.5914682
+Contract_Two year_True,0.51864845
+Contract_One year_True,0.4243009
+tenure,0.41585052
+Internet Service_Fiber optic_False,0.3928849
+Payment Method_Electronic check_False,0.38092184
+Multiple Lines_Yes_False,0.35432667
+Online Security_Yes_True,0.3293679
+Tech Support_Yes_True,0.32920823
+Online Backup_Yes_True,0.26549888
